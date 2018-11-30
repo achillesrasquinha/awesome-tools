@@ -1,7 +1,9 @@
 <div align="center">
   <h2>Awesome Tools</h2>
-  <h4>A curated list of awesome developer tools</h4>
+  <h5>A curated list of awesome developer tools online</h5>
 </div>
 
 ### Tools
-* debuggex.com - *Online Visual Regular Expression Tester*
+* [Debuggex](https://www.debuggex.com/) - *Online Visual Regular Expression Tester*
+* [Crontab Generator](https://crontab-generator.org/) - *Generate crontab sytnax*
+* [NGINX Configuration Generator](https://nginxconfig.io/) - *NGINX Configuration Generator on steroids* 
